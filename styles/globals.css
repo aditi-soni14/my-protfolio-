@@ -14,6 +14,8 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  margin:0;
+  padding: 0;
 }
 
 body {
@@ -40,3 +42,17 @@ a {
     color-scheme: dark;
   }
 }
+section{
+  scroll-margin-top: 70px;
+}
+
+.blog-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.blog-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+
