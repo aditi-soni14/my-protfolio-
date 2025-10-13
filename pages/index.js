@@ -465,7 +465,7 @@ Problem Solver
               margin: "0 auto",
             }}
           />
-          <div style={{ fontSize: "0.8rem", color: "red", marginTop: "0.5rem" }}>18th July, 2020</div>
+          <div style={{ fontSize: "0.8rem", color: "red", marginTop: "0.5rem" }}></div>
         </div>
         <div
           style={{
@@ -509,7 +509,7 @@ Problem Solver
               margin: "0 auto",
             }}
           />
-          <div style={{ fontSize: "0.8rem", color: "red", marginTop: "0.5rem" }}>5th June, 2020</div>
+          <div style={{ fontSize: "0.8rem", color: "red", marginTop: "0.5rem" }}></div>
         </div>
         <div
           style={{
