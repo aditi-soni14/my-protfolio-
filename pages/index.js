@@ -195,7 +195,7 @@ Problem Solver
     </button>
   </a>
 
-  <a href="/Aditi Soni Resume.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="/aditiresume.pdf" target="_blank" rel="noopener noreferrer">
     <button style={{
       margin: '5px',
       backgroundColor: '#2196f3', 
