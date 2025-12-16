@@ -1,3 +1,4 @@
+
 import Head from "next/head";
 import Navbar from "@/component/Navbar";
 
@@ -677,6 +678,3 @@ Problem Solver
     </>
   );
 }
-
-
-
