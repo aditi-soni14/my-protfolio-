@@ -405,7 +405,58 @@ Problem Solver
         }}
       />
 
-      {/* Project 1 */}
+
+{/* Project 1 */}
+      <div style={{ display: "flex", alignItems: "center", gap: "2rem", position: "relative" }}>
+        <div style={{ position: "absolute", left: "-1.4rem", top: "0.5rem", textAlign: "center" }}>
+          <div
+            style={{
+              width: "14px",
+              height: "14px",
+              borderRadius: "50%",
+              backgroundColor: "white",
+              border: "3px solid red",
+              margin: "0 auto",
+            }}
+          />
+          <div style={{ fontSize: "0.8rem", color: "red", marginTop: "0.5rem" }}></div>
+        </div>
+        <div
+          style={{
+            backgroundColor: "#fff",
+            color: "#000",
+            borderRadius: "10px",
+            padding: "1rem",
+            maxWidth: "800px",
+            boxShadow: "0 4px 12px rgba(0,0,0,0.3)",
+          }}
+        >
+          <h4 style={{ textAlign: "center", fontWeight: "bold" }}>Entertainment-App(Full-Stack)</h4>
+          <img
+            src="/App.jpeg"
+            alt="Entertainment-App"
+            style={{ width: "100%", height: "auto", borderRadius: "10px", margin: "1rem 0" }}
+            
+          />
+          <div style={{ display: "flex", justifyContent: "center", gap: "1rem", flexWrap: "wrap" }}>
+            <a href="https://my-entertainment-app-frontend-6s64.onrender.com" target="_blank" rel="noopener noreferrer">
+              <button className="btn btn-success btn-sm">🌐 SEE LIVE FRONTEND</button>
+            </a>
+
+            <div style={{ display: "flex", justifyContent: "center", gap: "1rem", flexWrap: "wrap" }}>
+            <a href="https://my-entertainment-app-backend.onrender.com" target="_blank" rel="noopener noreferrer">
+              <button className="btn btn-success btn-sm">🌐 SEE LIVE BACKEND</button>
+            </a>
+            
+            <a href="https://github.com/aditi-soni14/E-Commerce-website-Project" target="_blank" rel="noopener noreferrer">
+              <button className="btn btn-dark btn-sm">💻 SOURCE CODE</button>
+            </a>
+          </div>
+        </div>
+      </div>
+      </div>
+
+      {/* Project 2 */}
       <div style={{ display: "flex", alignItems: "center", gap: "2rem", position: "relative" }}>
        
         <div style={{ position: "absolute", left: "-1.4rem", top: "0.5rem", textAlign: "center" }}>
@@ -453,7 +504,7 @@ Problem Solver
         </div>
       </div>
 
-      {/* Project 2 */}
+      {/* Project 3 */}
       <div style={{ display: "flex", alignItems: "center", gap: "2rem", position: "relative" }}>
         <div style={{ position: "absolute", left: "-1.4rem", top: "0.5rem", textAlign: "center" }}>
           <div
@@ -497,7 +548,7 @@ Problem Solver
         </div>
       </div>
 
-      {/* Project 3 */}
+      {/* Project 4 */}
       <div style={{ display: "flex", alignItems: "center", gap: "2rem", position: "relative" }}>
         <div style={{ position: "absolute", left: "-1.4rem", top: "0.5rem", textAlign: "center" }}>
           <div
