@@ -65,7 +65,7 @@ export default function Home() {
             
 
 Hi, I am <br></br>
-Aditi Soni👋<br></br>
+Aditi Pandey👋<br></br>
 Tech Enthusiast
           </p>
         </div>
@@ -196,7 +196,7 @@ Problem Solver
     </button>
   </a>
 
-  <a href="/aditiresume.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="/AditiPandey.pdf" target="_blank" rel="noopener noreferrer">
     <button style={{
       margin: '5px',
       backgroundColor: '#2196f3', 
